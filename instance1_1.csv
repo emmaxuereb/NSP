@@ -1,0 +1,11 @@
+﻿nurseid,Max m shifts,Max a shifts,Max n shifts,Max total shifts,Min total shifts,Max cons shifts,Min cons days off,Max weekends,Min n shifts
+1,2,2,2,12,4,5,2,1,1
+2,2,1,1,8,3,4,3,1,1
+3,2,1,1,12,3,5,2,1,1
+4,2,1,1,8,3,5,2,1,1
+5,2,2,2,12,4,5,2,1,1
+6,2,1,1,8,3,5,2,1,1
+7,2,2,2,8,4,5,2,1,1
+8,2,1,1,12,3,5,2,1,1
+9,2,2,2,8,4,5,2,1,1
+10,2,2,2,8,4,4,3,1,1
